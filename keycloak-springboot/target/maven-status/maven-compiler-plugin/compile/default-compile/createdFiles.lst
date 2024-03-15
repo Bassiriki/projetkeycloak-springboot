@@ -1,0 +1,4 @@
+com\groupeisi\keycloak\SecurityConfig.class
+com\groupeisi\keycloak\DemoController.class
+com\groupeisi\keycloak\JwtAuthConverter.class
+com\groupeisi\keycloak\KeycloakApplication.class
